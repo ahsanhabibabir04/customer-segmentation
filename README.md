@@ -2,6 +2,10 @@
 
 A machine learning project that groups mall customers based on annual income and spending score using K-Means clustering.
 
+## Live Demo
+
+[Launch the Customer Segmatation App](https://customer-segmentation-byabir.streamlit.app/)
+
 ## Overview
 This project uses unsupervised machine learning to identify customer groups based on spending patterns.
 
